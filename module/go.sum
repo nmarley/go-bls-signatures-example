@@ -1,0 +1,3 @@
+github.com/nmarley/bls-signatures v0.0.0-20191107165714-8a02688fe8d5 h1:A81BFT0oPb1WMnqiEinm/12l4A6XMteTba2EtdvacRY=
+github.com/nmarley/bls-signatures/go-bindings v0.0.0-20191107165714-8a02688fe8d5 h1:H4UG4xn9fjq+YQBvzGu1ytxCTD/LqAjJz4ZbV3HkPTw=
+github.com/nmarley/bls-signatures/go-bindings v0.0.0-20191107165714-8a02688fe8d5/go.mod h1:i9fw65qacSjLUJexOECor+stzhu2c0dERHo4t+H5fAE=
